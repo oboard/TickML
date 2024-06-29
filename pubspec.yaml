@@ -1,7 +1,18 @@
 name: tickml
-description: "A dynamic xml-based user interface engine for Flutter"
+description: "TickML is a markup language for flutter and scripts powered by Hetu Script."
 version: 1.0.1
-homepage:
+homepage: https://tickmlpad.oboard.eu.org
+repository: https://github.com/oboard/tickml
+issue_tracker: https://github.com/oboard/tickml/issues
+
+topics:
+  - flutter
+  - dynamic-ui
+  - scripting
+  - markup-language
+  - xml
+
+# publish_to: 'none'
 
 environment:
   sdk: '>=3.4.3 <4.0.0'

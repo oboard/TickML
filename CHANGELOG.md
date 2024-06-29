@@ -1,3 +1,5 @@
-## 0.0.1
+## 1.0.1 (2024-06-29)
 
-* TODO: Describe initial release.
+### Bug Fixes
+
+fixed the issue with the hetu script field

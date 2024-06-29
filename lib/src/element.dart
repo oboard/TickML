@@ -397,7 +397,7 @@ class TickElement {
       e.children = element.children.map((child) {
         if ((child.localName ?? '').startsWith('script')) {
           try {
-            analyzeHetu.eval(element.text);
+            analyzeHetu.eval(child.text);
           } on HTError catch (_, e) {
             if (kDebugMode) {
               print(e);

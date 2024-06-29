@@ -19,6 +19,10 @@ dependencies:
     path: ../
   flutter:
     sdk: flutter
+  flutter_code_editor: ^0.3.2
+  multi_split_view: ^3.2.1
+  flutter_highlight: ^0.7.0
+  highlight: ^0.7.0
 
 dev_dependencies:
   flutter_lints: ^2.0.1
