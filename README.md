@@ -15,7 +15,7 @@ Add the following to your `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  tickml: latest
+  tickml: ^1.0.1
 ```
 
 ### Minimal Example
